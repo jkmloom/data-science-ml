@@ -22,4 +22,5 @@ conda env create -f environment_universal.yml
 
 ## Feedback and Contributions
 
-If you have something to share, say, or suggest as a change, please let me know! You can raise an issue right here in this repository or email me directly at jkmloom.zohomail.in .
+If you have something to share, say, or suggest as a change, please let me know! You can raise an issue right here in this repository or email me directly at:
+> jkmloom.zohomail.in
